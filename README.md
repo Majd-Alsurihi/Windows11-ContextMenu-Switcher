@@ -66,7 +66,6 @@ To undo the classic menu tweak and restore the default Windows 11 right-click me
 
 - Use these files at your own risk.
 - Editing the Windows Registry can impact system behavior. Always back up your data and registry before making changes.
-- These scripts are provided for educational and productivity purposes only.
 
 ---
 
